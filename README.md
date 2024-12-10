@@ -1,8 +1,7 @@
-# React + Vite
+# Week 5 - Class 2 [Front-End 3]
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Class activity about asynchronous petitions to an API (PokeAPI) using `useEffect()` and `axios`.
 
-Currently, two official plugins are available:
+![Screenshot](./src/assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+By ***Luiggi Rodríguez Aliaga***
